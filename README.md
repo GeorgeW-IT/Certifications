@@ -8,5 +8,3 @@ Here are some of the IT-related courses I am completing to build my skills. Clic
 - **[Google Cyber Security Certificate](https://github.com/GeorgeW-IT/certificates)** – In Progress (Expected: Early 2026)  
   _Course completion certificate for cybersecurity fundamentals_
 
-- **[Python for Everybody Specialisation](https://github.com/GeorgeW-IT/certificates)** – In Progress (Expected: Early 2026)  
-  _Course completion certificate covering Python programming and practical applications_
